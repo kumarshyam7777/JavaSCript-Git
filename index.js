@@ -9,3 +9,9 @@ function test() {
   console.log(a);
   console.log(b);
 }
+
+const sum = (x, y) => x + y;
+
+
+
+console.log(sum(17,19))
